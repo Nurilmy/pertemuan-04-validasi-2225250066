@@ -141,18 +141,3 @@ Ketentuan:
 2. Validasi rentang digunakan agar data sesuai dengan ketentuan.
 3. Percabangan if-elif-else digunakan untuk memilih hasil berdasarkan kondisi.
 4. Pengujian dilakukan menggunakan data normal, batas, dan data tidak valid.
-
-## Contoh Commit Git
-
-```bash
-git add latihan
-git commit -m "feat: menyelesaikan lima latihan validasi dan klasifikasi"
-
-git add praktik/validasi_klasifikasi_nilai.py
-git commit -m "feat: menyelesaikan praktik 1 validasi dan klasifikasi"
-
-git add README.md .gitignore
-git commit -m "docs: menambahkan README dan gitignore"
-
-git push
-```
