@@ -4,7 +4,7 @@
 
 - Nama: Nuril Ilmy
 - NIM: 2225250066
-- Kelas: Isi sesuai kelas
+- Kelas: 3E
 
 ## Tujuan
 
